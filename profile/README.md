@@ -1,3 +1,7 @@
+![RFGLOGO](https://refreshgaming.net/uploads/monthly_2022_12/506596487_refreshGamingIconTransparent.png.b5977bcb5ce6e07bad7c300eee4740b7.png)
+
+
+
 ## REFRESH GAMING
 
 Refresh Gaming is a new gaming community designed to try and reshape the idea of what a gaming community is supposed to be.
