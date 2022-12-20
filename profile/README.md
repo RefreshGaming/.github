@@ -2,9 +2,9 @@
 
 Refresh Gaming is a new gaming community designed to try and reshape the idea of what a gaming community is supposed to be.
 
-[Website](https://refreshgaming.net)
-[Discord](https://discord.gg/h6bJNqKGvf)
-[Steamgroup](https://steamcommunity.com/groups/refreshgamingUS)
+[Website](https://refreshgaming.net) |
+[Discord](https://discord.gg/h6bJNqKGvf) |
+[Steam Group](https://steamcommunity.com/groups/refreshgamingUS)
 
 This is the offical GIT respo for RFG. **Code here is created and licensed under GPL-3.0 license.**
 Any code made **PUBLIC** here is allowed for public use, as long as proper credit to RFG is given.
