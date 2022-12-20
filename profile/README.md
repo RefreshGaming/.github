@@ -1,4 +1,4 @@
-![RFGLOGO](https://refreshgaming.net/uploads/monthly_2022_12/506596487_refreshGamingIconTransparent.png.b5977bcb5ce6e07bad7c300eee4740b7.png)
+![RFGLOGO](https://refreshgaming.net/uploads/monthly_2022_12/506596487_refreshGamingIconTransparent.png.b5977bcb5ce6e07bad7c300eee4740b7.png | width=100)
 
 
 
