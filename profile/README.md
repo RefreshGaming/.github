@@ -12,4 +12,4 @@ We host game servers coded 100% in-house that offer unique features tailored spe
 This is the offical GIT respo for RFG. **Code here is created and licensed under GPL-3.0 license.**
 Any code made **PUBLIC** here is allowed for public use, as long as proper credit to RFG is given.
 
-© Refresh Gaming 2022. All Rights Reserved.
+© Refresh Gaming 2023. All Rights Reserved.
