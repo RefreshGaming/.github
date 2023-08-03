@@ -1,4 +1,4 @@
-<img src="https://refreshgaming.net/assets/img/rfglogo.png" alt="RFGLOGO" width="300"/>
+<img src="https://refreshgaming.net/assets/img/rfglogo.png" alt="RFGLOGO" width="500"/>
 
 ## REFRESH GAMING
 
