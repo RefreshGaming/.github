@@ -2,7 +2,8 @@
 
 ## REFRESH GAMING
 
-Refresh Gaming is a new gaming community designed to try and reshape the idea of what a gaming community is supposed to be.
+Refresh Gaming is a gaming community that puts its community first.
+We host game servers coded 100% in-house that offer unique features tailored specifically for our community.
 
 [Website](https://refreshgaming.net) |
 [Discord](https://discord.gg/h6bJNqKGvf) |
